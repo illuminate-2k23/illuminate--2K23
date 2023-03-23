@@ -906,8 +906,9 @@ section {
   cursor: pointer;
   display: inline-block;
   padding: 10px 18px 12px 18px;
+  font-family: 'Russo One';
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 100;
   line-height: 1;
   text-transform: uppercase;
   color: #555555;
